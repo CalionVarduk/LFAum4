@@ -1,0 +1,9 @@
+H:\uś inf2\aum\LFAum4\LFAum4\bin\Debug\LFAum4.exe.config
+H:\uś inf2\aum\LFAum4\LFAum4\bin\Debug\LFAum4.exe
+H:\uś inf2\aum\LFAum4\LFAum4\bin\Debug\LFAum4.pdb
+H:\uś inf2\aum\LFAum4\LFAum4\obj\Debug\LFAum4.csprojResolveAssemblyReference.cache
+H:\uś inf2\aum\LFAum4\LFAum4\obj\Debug\LFAum4.MainForm.resources
+H:\uś inf2\aum\LFAum4\LFAum4\obj\Debug\LFAum4.Properties.Resources.resources
+H:\uś inf2\aum\LFAum4\LFAum4\obj\Debug\LFAum4.csproj.GenerateResource.Cache
+H:\uś inf2\aum\LFAum4\LFAum4\obj\Debug\LFAum4.exe
+H:\uś inf2\aum\LFAum4\LFAum4\obj\Debug\LFAum4.pdb
